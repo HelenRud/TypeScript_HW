@@ -1,0 +1,16 @@
+{
+  "name": "hw1_ice-cream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0",
+    "typescript": "^3.4.4"
+  }
+}
